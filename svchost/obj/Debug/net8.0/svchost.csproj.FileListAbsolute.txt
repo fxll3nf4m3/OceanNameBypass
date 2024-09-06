@@ -1,0 +1,14 @@
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\bin\Debug\net8.0\svchost.exe
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\bin\Debug\net8.0\svchost.deps.json
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\bin\Debug\net8.0\svchost.runtimeconfig.json
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\bin\Debug\net8.0\svchost.dll
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\bin\Debug\net8.0\svchost.pdb
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\svchost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\svchost.AssemblyInfoInputs.cache
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\svchost.AssemblyInfo.cs
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\svchost.csproj.CoreCompileInputs.cache
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\svchost.dll
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\refint\svchost.dll
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\svchost.pdb
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\svchost.genruntimeconfig.cache
+C:\Users\nnnik\OneDrive\Рабочий стол\svchost\obj\Debug\net8.0\ref\svchost.dll
